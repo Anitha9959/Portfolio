@@ -21,11 +21,11 @@ This is a **modern and interactive** portfolio website built using **HTML, CSS, 
 ## Installation & Setup
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/Anitha9959/portfolio-website.git
+   git clone https://github.com/Anitha9959/Portfolio
    ```
 2. **Navigate to the Project Folder:**
    ```sh
-   cd portfolio-website
+   cd portfolio
    ```
 3. **Open `index.html` in Your Browser.**
 
